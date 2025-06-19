@@ -22,6 +22,7 @@ A repository to teach myself some python stuff mainly in data visualization and 
 - [Polars](https://pola.rs/)
 - [Matplotlib](https://matplotlib.org/)
 - [Plotnine](https://plotnine.org/)
+- [Plotly](https://plotly.com/python/)
 - [unhcrpyplotstyle](https://github.com/leichen88/unhcrpyplotstyle)
 
 ## Resources
