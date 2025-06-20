@@ -55,3 +55,14 @@ plt.show()
 # When a Figure has a single Axes (as in every chart we've made so far), the center of the Axes and the Figure align.
 
 ### 05 Build (almost) any chart type
+
+# Matplotlib methods
+
+# Plotting
+# fundamental functions for creating chart types, like hist() for histograms, scatter() for scatterplots,bxp() for boxplots, and more.
+
+# Text and Annotations
+# Annotation is critical in data visualization, and we'll spend a lot of time adding text (e.g., ax.text), arrows, lines, and other shapes to enhance the insights a graph provides.
+
+# Axis limits, direction and scale
+# These functions not only manage the x and y axis limits but also allow us to change the scale to logarithmic, quasi-logarithmic, logit, and more.
