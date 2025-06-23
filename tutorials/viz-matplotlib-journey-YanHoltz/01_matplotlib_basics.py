@@ -66,3 +66,19 @@ plt.show()
 
 # Axis limits, direction and scale
 # These functions not only manage the x and y axis limits but also allow us to change the scale to logarithmic, quasi-logarithmic, logit, and more.
+
+### 06 What is the right chart?
+
+# The process
+# What you can do
+# What you should do
+  # What question to answer
+  # Who's reading
+  # Exploratory vs explanatory
+  # Eye catching vs accuracy
+  # Interactive vs static
+  # Data itself
+# Dataviz caveats: https://www.data-to-viz.com/caveats.html
+
+# Think outside the box > Cedric Scherer
+# https://www.dataviz-inspiration.com/
